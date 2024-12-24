@@ -20,28 +20,28 @@ CyMotion dirancang dengan visi untuk menciptakan solusi yang dapat membantu peng
 
 <hr>
 <h2><span class="icon">🎯</span> Progress Tugas Besar </h2>
-<iframe src="/assets/documents/Progresa Report.pdf" width="600" height="400" style="border: none;" allowfullscreen>
+<iframe src="{{site.baseurl}}/assets/documents/Progresa Report.pdf" width="600" height="400" style="border: none;" allowfullscreen>
 
 <hr>
 <h2><span class="icon">📄</span> Proposal Tugas Besar</h2>
-<iframe src="/assets/documents/IF_ITERA_Template__2_.pdf" width="600" height="400" style="border: none;" allowfullscreen>
-  <a href="/assets/documents/IF_ITERA_Template__2_.pdf">Download PDF</a>
+<iframe src="{{site.baseurl}}/assets/documents/IF_ITERA_Template__2_.pdf" width="600" height="400" style="border: none;" allowfullscreen>
+  <a href="{{site.baseurl}}/assets/documents/IF_ITERA_Template__2_.pdf">Download PDF</a>
 </iframe>
 
 <hr>
 <h2><span class="icon">🎨</span> Poster</h2>
-<img src="/assets/images/Navy White Modern The IoT Revolution Book Cover_page-0001.jpg" style="width: 50%; max-width: 600px; height: auto;" alt="Poster">
+<img src="{{site.baseurl}}/assets/images/Navy White Modern The IoT Revolution Book Cover_page-0001.jpg" style="width: 50%; max-width: 600px; height: auto;" alt="Poster">
 
 
 <hr>
 <h2><span class="icon">📊</span> Power Point</h2>
-<iframe src="/assets/documents/Kuning dan Biru Ilustrasi Tugas Kelompok Teknologi Presentasi.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="{{site.baseurl}}/assets/documents/Kuning dan Biru Ilustrasi Tugas Kelompok Teknologi Presentasi.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 <hr>
 <h2><span class="icon">🎥</span> Video Presentasi</h2>
 <p><video id="scenario-1" class="video-js vjs-default-skin vjs-big-play-centered" controls preload="auto" width="640" height="480" data-setup='{}'>
-<source src="/assets/images/Red and White Modern Welcome to My Channel Youtube Intro.mp4" type='video/mp4'>
+<source src="{{site.baseurl}}/assets/images/Red and White Modern Welcome to My Channel Youtube Intro.mp4" type='video/mp4'>
 </video></p>
 
 
