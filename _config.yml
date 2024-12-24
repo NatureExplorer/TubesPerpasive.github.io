@@ -23,7 +23,7 @@ description: Tugas Besar Mata Kuliah Perpasive Computing
 author: CyMotion Team
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://TubesPerpasive.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
