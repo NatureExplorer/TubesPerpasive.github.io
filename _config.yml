@@ -22,7 +22,7 @@ title: CyMotion - Sistem Deteksi dan Mitigasi Cybersickness
 description: Tugas Besar Mata Kuliah Perpasive Computing
 author: CyMotion Team
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/TubesPerpasive.github.io" # the subpath of your site, e.g. /blog
 url: "https://TubesPerpasive.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
