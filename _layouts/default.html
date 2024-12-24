@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo-title">
+                <img src="/assets/images/cymotion-removebg-preview.png" alt="Logo ITERA" class="logo-left">
+                <div class="title">
+                    <h1>{{ site.title }}</h1>
+                    <p>{{ site.description }}</p>
+                </div>
+            </div>
+            <div class="logos-right">
+                <img src="/assets/images/logo_itera-removebg-preview.png" alt="Logo ITERA" class="logo">
+                <img src="/assets/images/logo_pc-removebg-preview.png" alt="Logo Pervasive" class="logo">
+            </div>
+            
+    </header>
+    
+    
+    <div>
+        <main>
+            {{ content }}
+        </main>
+    </div>
+    <footer>
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.author }}</p>
+    </footer>
+</body>
+</html>

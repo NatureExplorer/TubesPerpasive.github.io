@@ -1,0 +1,136 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: linear-gradient(90deg, #1e90ff, #ff6347); /* Blue to orange gradient */
+    color: white;            /* Text color for contrast */
+    padding: 20px;           /* Add padding for spacing */
+    text-align: center; 
+    width: 100%;
+}
+
+h2 .icon {
+    margin-right: 10px;
+    color: #007bff; /* Warna ikon */
+    font-size: 24px;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #ddd;
+    margin: 20px 0;
+}
+
+
+.header-container {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 10px 20px;
+}
+
+.logo-left {
+    width: 70px; 
+    height: auto;
+    align-items: center;
+    display: flex;
+}
+
+.navbar {
+    display: flex;
+    gap: 20px;
+}
+
+.title {
+    text-align: left;
+}
+
+.title h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+    color: white;
+}
+
+.title p {
+    font-size: 14px;
+    margin: 0;
+    color: white;
+}
+
+.logos-right {
+    display: flex;
+    align-items: center;
+    gap: 20px; 
+}
+
+.logo {
+    max-height: 80px; 
+    object-fit: contain; 
+}
+
+main {
+    width: 100%;
+    padding:0 20px;
+}
+
+section {
+    margin: 40px 0;
+}
+
+footer {
+    width: 100%;
+    background: linear-gradient(90deg, #1e90ff, #ff6347);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+}
+
+iframe, embed {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap; /* Agar kartu dapat menyesuaikan layar */
+    gap: 20px; /* Jarak antar kartu */
+    justify-content: center; /* Pusatkan semua kartu */
+    margin-top: 20px;
+}
+
+.card {
+    background-color: #f8f9fa; /* Warna background kartu */
+    border: 1px solid #ddd; /* Border ringan */
+    border-radius: 10px; /* Membuat sudut kartu melengkung */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Bayangan untuk efek mengambang */
+    padding: 20px; /* Ruang dalam kartu */
+    max-width: 300px; /* Lebar maksimum kartu */
+    text-align: center; /* Teks berada di tengah */
+    font-family: Arial, sans-serif;
+}
+
+.card h3 {
+    margin: 0;
+    font-size: 20px;
+    color: #333;
+}
+
+.card p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #555;
+}
+
+.card strong {
+    color: #000; /* Warna teks untuk label */
+}
+
+
