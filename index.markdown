@@ -20,12 +20,11 @@ CyMotion dirancang dengan visi untuk menciptakan solusi yang dapat membantu peng
 
 <hr>
 <h2><span class="icon">🎯</span> Progress Tugas Besar </h2>
-<iframe src="{{site.baseurl}}/assets/documents/Progresa Report.pdf" width="600" height="400" style="border: none;" allowfullscreen>
+<iframe src="{{site.baseurl}}/assets/documents/Progresa Report.pdf" width="600" height="400" style="border: none;" allowfullscreen></iframe>
 
 <hr>
 <h2><span class="icon">📄</span> Proposal Tugas Besar</h2>
 <iframe src="{{site.baseurl}}/assets/documents/IF_ITERA_Template__2_.pdf" width="600" height="400" style="border: none;" allowfullscreen>
-  <a href="{{site.baseurl}}/assets/documents/IF_ITERA_Template__2_.pdf">Download PDF</a>
 </iframe>
 
 <hr>
